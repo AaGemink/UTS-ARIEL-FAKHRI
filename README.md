@@ -40,5 +40,3 @@ Project web sederhana untuk rekap nilai mahasiswa. Dibuat pakai PHP Native denga
 ├── editnilai.php     # proses update data & foto
 └── hapusnilai.php    # proses hapus data
 ```
-
-*Dibuat oleh Ariel Fakhri - Web Programming Semester 5*
